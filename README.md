@@ -16,3 +16,16 @@ Over the years I have finished a variety of projects ranging from Frontend Websi
 7. [Smaller other Projects](): (Java/Python/Ruby/...)
 
 # Animaler: Fullstack Social Media Platform
+
+
+# Implicity: Psychological Bias Test as IOS and Android App
+## Introduction
+Something that fascinated me while studying Psychology was the "Implicit Association Test". This test is a psychological research method to find out what words are connected in a persons mind, which was developed by multiple different psychologists from Harvard and other Universities. 
+The way this test works is by finding out which words and images a person connects together in their subconsious mind by letting people sort them and measure their reaction time. The big advantage of this is that the result does not get influenced by the tested persons need to appear positive, as most people dont openly admit their stereotypes. For example, many people connect the word "Asian" and "Smart", or "Muslim" and "Terrorism", as these are the stereotypes and connections that we are shown by our environment and media. With that, it is possible to measure any bias, stereotype and implicit opinion about any object or word. 
+
+
+## Features
+- Working through an online course about the Flutter Framework and practicing coding in Dart 
+- Studying various research papers to develop and improve a user friendly concept of the test
+- Using the 
+## Lessons
