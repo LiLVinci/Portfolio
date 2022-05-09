@@ -16,6 +16,9 @@ Over the years I have finished a variety of projects ranging from Frontend Websi
 7. [Smaller other Projects](): (Java/Python/Ruby/...)
 
 # Animaler: Fullstack Social Media Platform
+## Description
+After finishing my coding Bootcamp "LeWagon" I knew the basics of webdevelopment with the framework Ruby on Rails. Animaler is the third big project that I started with this framework after that, with the first two being smaller projects that did not work out as planned and are no longer online. 
+Animaler is a social media platform/imageboard that specializes on the topic of images and videos of animals. The idea behind is that people who enjoy looking at animal pictures and videos for fun or to reduce stress dont want to visit the big platforms like Instagram, Reddit or 9GAG, as they 
 
 
 # Implicity: Psychological Bias Test as IOS and Android App
