@@ -48,3 +48,27 @@ The way this test works is by finding out which words and images a person connec
 
 ## Conclusion
 Building Implicity was a great journey and taught me more than any video, book or teacher could ever provide me. The current situation of the app is that its still in the [Appstore](https://apps.apple.com/nl/app/implicity-subconscious-tests/id1587766901) or [Playstore](https://play.google.com/store/apps/details?id=com.vincentwittek.implicity), however getting users by organic serach traffic is difficult as normal consumers are not as interested in finding out their implicit biases as previously thought. There is more potential in B2B markets, as employee testing can help companies to prevent scandals by inequality or sexual harrassment. I am currently in talks with several small organisations that provide workshops about diversity and inclusion, and who are interested in testing participants before and afterwards to measure the effects of the workshop. 
+
+# Forum Family Office Website - Frontend Design and Implementation for Investment Company (Webflow/Javascript)
+
+## Introduction
+This project was the result of the internship I visited during my summer holidays of 2021, which was for 8 weeks at the "Forum Family Office", which is a company in my father founded in Germany. The goal was to redesign the website to improve the first impression the clients of the company have as well as to increase customer aquisition through organic search traffic. The website can be found [here](https://en.forumgruppe.de).
+
+## Features
+- Comparing several code/no-code frameworks and deciding on Webflow, as it provides advanced customizability, easy CMS usage for future employees and good performance. 
+- Analysing key competitors and websites of similar branding to plan the core design.
+- Managing the project with KANBAN Methodology  and Trello as tool.
+- Planning and analysing potential user journeys 
+- Defining three groups of target users, which are potential fond investors (public value investing), company holders looking to sell (private family equity) and job applicants.
+- Designing the website according to company image and branding.
+- Satisfying the goals and wishes of multiple stakeholders through constant communication and status updates.
+- Reaching top ranks in essential keywords through Search Engine Optimization with several methods (#1 for "Family Office Munich", #3-5 for "Value Investing Job Munich", ...)
+- Using automatic translation plugins for translation into English.  
+
+## Lessons
+1. Working with multiple stakeholders is not easy, but working with predefined methods (Kanban, Scrum etc) and tools (Trello, Jira etc) and sticking to clear communication helps greatly here.
+2. Its important to stay flexible while building a product, as new ideas and potential improvements will come up in every step. 
+3.  When working with a fixed time window for the development a clear plan and set structure is the key factor of success. 
+
+## Conclusion
+I was skeptical when starting this internship, as I never saw myself as a frontend designer and also because the stakeholders didnt fully trust my ability to manage this project. However, the website turned out to be a great success as the clickcount  and conversionrate is still rising beyond any expectations. Apart from this Forum Family Office is also seeing the first investors and even the first company takeover offers through the contact form. 
