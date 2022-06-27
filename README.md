@@ -8,13 +8,13 @@ aquired just as much skill and knowledge though my own **ambition and motivation
 
 Over the years I have finished a variety of projects ranging from Frontend Website Design, Fullstack App Development to Deep Learning AI Implementation. I have sorted these by complexity, starting from highest complexity and going to lower levels. 
 
-1. [Animaler](#animaler:-fullstack-social-media-platform): Fullstack Social Media Platform (Ruby on Rails)
-2. [Animaler App](): Fullstack Social Media App (Rails API/Flutter)
-3. [SnakeAI](): Interactive Browser Snake Game showcasing AI (Javascript/Tensorflow)
-4. [Implicity](): Psychological Test for finding biases and stereotypes as mobile App (Flutter)
-5. [Forum Family Office Website](): Frontend Design and Implementation for Investment Company (Webflow/Javascript)
-6. [Various other AI Projects](): (Python/Tensorflow)
-7. [Smaller other Projects](): (Java/Python/Ruby/...)
+1. [Animaler](#animaler-fullstack-social-media-platform): Fullstack Social Media Platform (Ruby on Rails)
+2. [Animaler App](#animaler-app-fullstack-social-media-app-rails-apiflutter): Fullstack Social Media App (Rails API/Flutter)
+3. [SnakeAI](#snakeai-interactive-browser-snake-game-showcasing-ai-javascripttensorflow): Interactive Browser Snake Game showcasing AI (Javascript/Tensorflow)
+4. [Implicity](#implicity-psychological-bias-test-as-ios-and-android-app): Psychological Test for finding biases and stereotypes as mobile App (Flutter)
+5. [Forum Family Office Website](#forum-family-office-website---frontend-design-and-implementation-for-investment-company-webflowjavascript): Frontend Design and Implementation for Investment Company (Webflow/Javascript)
+7. [Various other AI Projects](#various-other-ai-projects-python-tensorflow-pytorch): (Python/Tensorflow)
+8. [Other small Projects](#other-small-projects-javapythonruby): (Java/Python/Ruby/...)
 
 # Animaler: Fullstack Social Media Platform
 ## Description
