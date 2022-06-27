@@ -1,3 +1,4 @@
+
 # Portfolio Vincent Wittek
 
 Something that defines me as a person is the **drive to build**. Since I knew how to code basic stuff 
@@ -19,6 +20,16 @@ Over the years I have finished a variety of projects ranging from Frontend Websi
 ## Description
 After finishing my coding Bootcamp "LeWagon" I knew the basics of webdevelopment with the framework Ruby on Rails. Animaler is the third big project that I started with this framework after that, with the first two being smaller projects that did not work out as planned and are no longer online. 
 Animaler is a social media platform/imageboard that specializes on the topic of images and videos of animals. The idea behind is that people who enjoy looking at animal pictures and videos for fun or to reduce stress dont want to visit the big platforms like Instagram, Reddit or 9GAG, as they 
+
+*[This entry is in development]*
+
+# Animaler App: Fullstack Social Media App (Rails API/Flutter)
+
+*[This entry is in development]*
+
+# SnakeAI: Interactive Browser Snake Game showcasing AI (Javascript/Tensorflow)
+
+*[This entry is in development]*
 
 
 # Implicity: Psychological Bias Test as IOS and Android App
@@ -73,3 +84,11 @@ This project was the result of the internship I visited during my summer holiday
 
 ## Conclusion
 I was skeptical when starting this internship, as I never saw myself as a frontend designer and also because the stakeholders didnt fully trust my ability to manage this project. However, the website turned out to be a great success as the clickcount  and conversionrate is still rising beyond any expectations. Apart from this Forum Family Office is also seeing the first investors and even the first company takeover offers through the contact form. 
+
+# Various other AI Projects (Python, Tensorflow, Pytorch)
+
+*[This entry is in development]*
+
+# Other small projects (Java/Python/Ruby/...)
+
+*[This entry is in development]*
