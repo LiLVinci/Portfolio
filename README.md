@@ -8,7 +8,7 @@ aquired just as much skill and knowledge though my own **ambition and motivation
 
 Over the years I have finished a variety of projects ranging from Frontend Website Design, Fullstack App Development to Deep Learning AI Implementation. I have sorted these by complexity, starting from highest complexity and going to lower levels. 
 
-1. [Animaler](# Animaler: Fullstack Social Media Platform): Fullstack Social Media Platform (Ruby on Rails)
+1. [Animaler](#Animaler:-Fullstack-Social-Media-Platform): Fullstack Social Media Platform (Ruby on Rails)
 2. [Animaler App](): Fullstack Social Media App (Rails API/Flutter)
 3. [SnakeAI](): Interactive Browser Snake Game showcasing AI (Javascript/Tensorflow)
 4. [Implicity](): Psychological Test for finding biases and stereotypes as mobile App (Flutter)
