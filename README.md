@@ -23,12 +23,28 @@ Animaler is a social media platform/imageboard that specializes on the topic of 
 
 # Implicity: Psychological Bias Test as IOS and Android App
 ## Introduction
-Something that fascinated me while studying Psychology was the "Implicit Association Test". This test is a psychological research method to find out what words are connected in a persons mind, which was developed by multiple different psychologists from Harvard and other Universities. 
-The way this test works is by finding out which words and images a person connects together in their subconsious mind by letting people sort them and measure their reaction time. The big advantage of this is that the result does not get influenced by the tested persons need to appear positive, as most people dont openly admit their stereotypes. For example, many people connect the word "Asian" and "Smart", or "Muslim" and "Terrorism", as these are the stereotypes and connections that we are shown by our environment and media. With that, it is possible to measure any bias, stereotype and implicit opinion about any object or word. 
+Something that always interested me was personality tests, and when I leaned about the "Implicit Association Test" while studying Psychology I was really fascinated. This test is a psychological research method to find out what words and constructs are connected in a persons subconscious mind, which was developed by psychologists from Harvard and other prestige Universities. 
+The way this test works is by finding out which words and images a person connects together in their subconsious mind by letting people sort them and measure their reaction time. The big advantage of this is that the result does not get influenced by the tested persons need to appear positive to others, as most people dont openly admit their stereotypes. For example, many people connect the word "Asian" and "Smart", or "Muslim" and "Terrorism", as these are the stereotypes and connections that are often shown to us by our environment and media. With this test, it is possible to measure any bias, stereotype and implicit opinion about any object or word. 
 
 
 ## Features
-- Working through an online course about the Flutter Framework and practicing coding in Dart 
-- Studying various research papers to develop and improve a user friendly concept of the test
-- Using the 
+- Working through an online course about the Flutter Framework and practicing coding in Dart.
+- Studying various research papers to develop and improve a user friendly concept of the test.
+- Constructing different user journeys and experiences.
+- Working together with a freelance designer to develop a design that looks **modern, scientific, curious** and **impartial**.
+- Coding the backend of the test and result analysis based on the [intitial joural article by Greenwald et al](https://doi.apa.org/doi/10.1037/0022-3514.74.6.1464) that uses ANOVA to calculate the result.
+- Improving the statistical test analysis with a [later paper by Nosek et al](https://doi.org/10.1371/journal.pone.0110938) that improves reliability.
+- Setting up a Firestore database to store results and provide anonymous registration so that the data is not connected to the user.
+- Implementing real time result average updates, so that every test done affects the global average automatically
+- Conducting user tests and collecting feedback from friends, family and by approaching people around my university and libary with standarized interviews.
+- Improving App Store Optimization with online articles and freelance consultants.
+
+
 ## Lessons
+1. Every coding framework is unique with different perks and flaws, and matching a project with the right framework can save huge amount of time and prevent numerous problems, even if time is needed at the beginning to get used to it.
+2. It is incredibly difficult and requires strict standarization to get honest reviews from a users. 
+3. The average App Store user is not really interested in scientific testing or psychology. Market research that analyses keyword search volume and app competition is massively important **before** a product is started to be developed. 
+
+
+## Conclusion
+Building Implicity was a great journey and taught me more than any video, book or teacher could ever provide me. The current situation of the app is that its still in the [Appstore](https://apps.apple.com/nl/app/implicity-subconscious-tests/id1587766901) or [Playstore](https://play.google.com/store/apps/details?id=com.vincentwittek.implicity), however getting users by organic serach traffic is difficult as normal consumers are not as interested in finding out their implicit biases as previously thought. There is more potential in B2B markets, as employee testing can help companies to prevent scandals by inequality or sexual harrassment. I am currently in talks with several small organisations that provide workshops about diversity and inclusion, and who are interested in testing participants before and afterwards to measure the effects of the workshop. 
