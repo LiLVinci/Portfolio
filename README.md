@@ -61,6 +61,7 @@ This project was the result of the internship I visited during my summer holiday
 - Planning and analysing potential user journeys 
 - Defining three groups of target users, which are potential fond investors (public value investing), company holders looking to sell (private family equity) and job applicants.
 - Designing the website according to company image and branding.
+- Implementing advanced features through Javascript.
 - Satisfying the goals and wishes of multiple stakeholders through constant communication and status updates.
 - Reaching top ranks in essential keywords through Search Engine Optimization with several methods (#1 for "Family Office Munich", #3-5 for "Value Investing Job Munich", ...)
 - Using automatic translation plugins for translation into English.  
