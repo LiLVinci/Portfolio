@@ -18,10 +18,31 @@ Over the years I have finished a variety of projects ranging from Frontend Websi
 
 # Animaler: Fullstack Social Media Platform
 ## Description
+# DailyHappyPlace: Fullstack Social Media Platform
 After finishing my coding Bootcamp "LeWagon" I knew the basics of webdevelopment with the framework Ruby on Rails. Animaler is the third big project that I started with this framework after that, with the first two being smaller projects that did not work out as planned and are no longer online. 
-Animaler is a social media platform/imageboard that specializes on the topic of images and videos of animals. The idea behind is that people who enjoy looking at animal pictures and videos for fun or to reduce stress dont want to visit the big platforms like Instagram, Reddit or 9GAG, as they 
+Animaler is a social media platform/imageboard that specializes on the topic of images and videos of animals. The idea behind is that people who enjoy looking at animal pictures and videos for fun or to reduce stress dont want to visit the big platforms like Instagram, Reddit or 9GAG, as its a psychological concept that social communities like these prefer to not mix and have their own space. 
+## Features
+- PostgresSQL Database
+- Cloudinary Image Hosting
+- Outsourced frontend design
+- Full Responsivity
+- Voting System
+- Report System
+- A/B Testing for user preferred design
+- Heroku Hosting
+- Automatic publishing to Instagram and Facebook for marketing via watermark
+- SEO research and keyword improvements
+- Monetarization with Google Adsense
 
-*[This entry is in development]*
+## Lessons
+1. It is extremely difficult but also extremely rewarding to build a two sided social network (service providers and consumers)
+2. SEO is an interesting concept as there is never a perfect solution and also most experts have different opinions. A good code structure, a low bounce rate and backlinks seem most important
+3. Rails is a cool and very useful Framework, but compared to others it can really be seen how old and outdated it is
+4. When publishing a project like that one of the most common problems is overengineering it, as building the product is a safespace where its not really possible to fail
+
+## Conclusions
+DailyHappyPlace was probably the biggest and most complex project that I ever built. Over years I managed to get a good traction and substantial numbers of users that publish and vote by themselves which of course makes me very proud. 
+I want to keep making DailyHappyPlace grow and build an actual community with it. Of course, this takes time but the hardest part is already done. 
 
 # Animaler App: Fullstack Social Media App (Rails API/Flutter)
 
