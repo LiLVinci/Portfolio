@@ -87,7 +87,15 @@ I was skeptical when starting this internship, as I never saw myself as a fronte
 
 # Various other AI Projects (Python, Tensorflow, Pytorch)
 
-*[This entry is in development]*
+I very much enjoy learning about the latest findings and developments that are taking place in the world of Artificial Intelligence. In my freetime I also experimented with different simple applications of it to get a better understanding of it. To do this I made use of Python, Tensorflow, Keras, Numpy and Kaggle.
+I truly believe that AI is the most promising technology that is currently developing and will bring much more change and opportunity than blockchain, Internet of Things or Virtual Reality. 
+
+## List of Projects
+- Handwritten digit recognition
+- Recognition of various animals
+- Object Recognition trained by Capchta examples
+- Sentient Text Analysis of movie reviews
+- Text Generation of short stories
 
 # Other small projects (Java/Python/Ruby/...)
 
