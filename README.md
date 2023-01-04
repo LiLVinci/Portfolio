@@ -1,4 +1,4 @@
-##  👋 Hi there! This is Vincents Portfolio 
+#  👋 Hi there! This is Vincents Portfolio 
 
 Something that defines me as a person is the **drive to build**. Since I knew how to code basic stuff 
 there has not been a week in which I was not working on a project or product that I believed in.
