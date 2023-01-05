@@ -1,6 +1,6 @@
 #  👋 Hi there! This is Vincents Portfolio 
 
-<img align="left" padding="10px" src="https://media.licdn.com/dms/image/C4D03AQFH2-qgzX3IgA/profile-displayphoto-shrink_800_800/0/1598911032797?e=1678320000&v=beta&t=22o8lovcrxMx1WizpjCg7pnLBBaNN9G1WsNL7PuKbvY" alt="drawing" width="200"/>
+<img align="left" padding="10px" src="https://media.licdn.com/dms/image/C4D03AQFH2-qgzX3IgA/profile-displayphoto-shrink_800_800/0/1598911032797?e=1678320000&v=beta&t=22o8lovcrxMx1WizpjCg7pnLBBaNN9G1WsNL7PuKbvY" alt="drawing" width="150"/>
 
 Something that defines me as a person is the **drive to build**. Since I knew how to code basic stuff there has not been a week in which I was not working on a project or product that I believed in. I may have studied **Psychology** instead of Computer Science or Software Engineering, but I think I have  aquired just as much skill and knowledge though my own **ambition and motivation**  as any graduate there, while additionally having learned how to **motivate and manage people**.
 <br /><br /><br /><br />
