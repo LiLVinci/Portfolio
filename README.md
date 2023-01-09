@@ -29,7 +29,9 @@ Over the years I have finished a variety of projects ranging from Frontend Websi
 </p>
 After finishing my coding Bootcamp "LeWagon" I knew the basics of webdevelopment with the framework Ruby on Rails. Animaler is the third big project that I started with this framework after that, with the first two being smaller projects that did not work out as planned and are no longer online. 
 Animaler is a social media platform/imageboard that specializes on the topic of images and videos of animals. The idea behind is that people who enjoy looking at animal pictures and videos for fun or to reduce stress dont want to visit the big platforms like Instagram, Reddit or 9GAG, as its a psychological concept that social communities like these prefer to not mix and have their own space. 
+
 ## Features
+
 - PostgresSQL Database
 - Cloudinary Image Hosting
 - Outsourced frontend design
