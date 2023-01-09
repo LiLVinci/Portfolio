@@ -61,7 +61,7 @@ I want to keep making DailyHappyPlace grow and build an actual community with it
 <p align="center">
 <img src="https://uploads-ssl.webflow.com/60929e316262b821dd2e1ec7/620076bbde33ea48e04c37cd_logo_full-p-500.png" alt="drawing" width="500"/>
 </p>
-##Introduction
+
 Something that always interested me was personality tests, and when I leaned about the "Implicit Association Test" while studying Psychology I was really fascinated. This test is a psychological research method to find out what words and constructs are connected in a persons subconscious mind, which was developed by psychologists from Harvard and other prestige Universities. 
 The way this test works is by finding out which words and images a person connects together in their subconsious mind by letting people sort them and measure their reaction time. The big advantage of this is that the result does not get influenced by the tested persons need to appear positive to others, as most people dont openly admit their stereotypes. For example, many people connect the word "Asian" and "Smart", or "Muslim" and "Terrorism", as these are the stereotypes and connections that are often shown to us by our environment and media. With this test, it is possible to measure any bias, stereotype and implicit opinion about any object or word. 
 
@@ -94,7 +94,7 @@ Building Implicity was a great journey and taught me more than any video, book o
 
 # 🐍 SnakeAI: Interactive Browser Snake Game showcasing AI (Javascript/Tensorflow)
 
-## Introduction
+
 After experimenting with basic AI things like Natural Language Processing or Image Recognition I wanted to see how far i could get with programming a deep learning model for a game that I like. After much thought, I decided that the Snake game would be the optimal environment to train my AI, as its easy to program, can be learned with good rules and is also a timeless classic. I started to program three versions of it in a single interactive website: One where the user could test how far they get, one where a "perfect" bot is playing, and one where the AI can be trained.
 
 ## Features
@@ -118,7 +118,7 @@ This was a great project, I learned a lot and applied previous knowledge. Javasc
 <img src="https://uploads-ssl.webflow.com/60dedad8c790bfc73c94de1a/60ffc08dc63fc189ef374d6e_Forum_Logo_2021.svg" alt="drawing" width="500"/>
 </p>
 
-## Introduction
+
 This project was the result of the internship I visited during my summer holidays of 2021, which was for 8 weeks at the "Forum Family Office", which is a company in my father founded in Germany. The goal was to redesign the website to improve the first impression the clients of the company have as well as to increase customer aquisition through organic search traffic. The website can be found [here](https://en.forumgruppe.de).
 
 ## Features
