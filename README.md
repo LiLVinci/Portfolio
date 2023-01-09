@@ -61,7 +61,7 @@ I want to keep making DailyHappyPlace grow and build an actual community with it
 <p align="center">
 <img src="https://uploads-ssl.webflow.com/60929e316262b821dd2e1ec7/620076bbde33ea48e04c37cd_logo_full-p-500.png" alt="drawing" width="500"/>
 </p>
-## Introduction
+##Introduction
 Something that always interested me was personality tests, and when I leaned about the "Implicit Association Test" while studying Psychology I was really fascinated. This test is a psychological research method to find out what words and constructs are connected in a persons subconscious mind, which was developed by psychologists from Harvard and other prestige Universities. 
 The way this test works is by finding out which words and images a person connects together in their subconsious mind by letting people sort them and measure their reaction time. The big advantage of this is that the result does not get influenced by the tested persons need to appear positive to others, as most people dont openly admit their stereotypes. For example, many people connect the word "Asian" and "Smart", or "Muslim" and "Terrorism", as these are the stereotypes and connections that are often shown to us by our environment and media. With this test, it is possible to measure any bias, stereotype and implicit opinion about any object or word. 
 
